@@ -1,19 +1,11 @@
 
 body{
-    background-color: transparent;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url(/images/bg.png) ;
+    
+    
 }
-    i
-{
-    padding-top:10px;
 
-    text-align: center;
-    display: block;
-    
-    
-    width: 45px;
    
-}
-
 .greyy
 {
     color:rgb(90, 88, 88);
@@ -24,9 +16,11 @@ body{
 }
 .main
 {
+    
+    margin-left:35%;
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,"ＭＳ Ｐゴシック",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
    
-    height: fit-content;
+    height:fit-content;
     background-color: white;
     width: fit-content;
     
@@ -36,7 +30,6 @@ text-align: center;
 align-content: center;
 width: 420px;
 
-margin: auto;
 padding-top: 10px;
 
  
@@ -212,4 +205,5 @@ background-color: white;
 left: -269px;
     top: 6px;
 border-radius: 2px;
+
 }
