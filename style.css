@@ -1,0 +1,186 @@
+
+    i
+{
+    padding-top:10px;
+
+    text-align: center;
+    display: block;
+    
+    
+    width: 45px;
+   
+}
+
+.greyy
+{
+    color:rgb(90, 88, 88);
+    font-weight: normal;
+    font-size: 16px;
+
+    padding-top: 10px;
+}
+.main
+{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,"ＭＳ Ｐゴシック",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+   
+    height: fit-content;
+    background-color: white;
+    width: fit-content;
+    
+    display: block;
+    position: absolute;
+text-align: center;
+align-content: center;
+width: 420px;
+
+margin: auto;
+padding-top: 10px;
+
+ 
+  border: 1px solid #888;
+  
+  border-radius: 10px;
+}
+
+
+.item
+{
+   padding-bottom: 8px;
+ 
+    color: rgb(51, 51, 51);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,"ＭＳ Ｐゴシック",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+   
+}
+.bold
+{
+    font-weight: bold;
+    font-size: 32px;
+    letter-spacing: -1.2px;
+}
+.textbox
+{
+    border: 1px solid #8e8e8e;
+    border-radius: 6px;
+    height: 40px;
+    width: 268px;
+    padding-inline-start: 10px;
+    margin-bottom: 10px;
+
+}
+.continue
+{
+    background-color: #e60023;
+    border:#e60023 1px solid;
+    height: 40px;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,"ＭＳ Ｐゴシック",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    width: 274px;
+    color:white;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 6px;
+margin-bottom: 10px;
+}
+.or
+{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,"ＭＳ Ｐゴシック",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+   font-weight:bold;
+
+    font-size: 12px;
+    color:black;
+margin-bottom: 10px;
+}
+.continuef
+{
+    background-color:#4d71b3;
+    border:#4d71b3 1px solid;
+    height: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 274px;
+    font-size:16px;
+    color:white;
+    font-weight: bold;
+    border-radius: 2px;
+    margin-top:0px;
+    margin-bottom: 10px;
+}
+
+
+.continueg
+{
+    background-color:#6691e0;
+    border:#6691e0 1px solid;
+    height: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 274px;
+    font-size:16px;
+    color:white;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+.fb
+{
+    position: relative ;
+      z-index: 5;
+      left: -116px;
+    top: -40px;
+      bottom:-20%;
+        padding: 0px 8px;
+        align-items:center;
+        padding-top:0px; padding-left: 5px;
+        margin-top:5px;
+        line-height: 44px;
+        cursor:pointer;
+    height: 24px;
+    width:24px;
+
+}
+.log
+{
+    margin-top: 10px;
+    color:black;
+    font-size:16px;
+    background-color:#efefef;
+    border:#efefef 1px solid;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,"ＭＳ Ｐゴシック",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+   border-radius:6px;
+   margin-bottom: 10px;
+}
+.term
+{
+color:grey;
+font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,"ＭＳ Ｐゴシック",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+ font-size:12px;
+
+}
+.lastbutton
+{
+    background-color: #efefef;
+    width:100%;
+    padding:20px;
+    font-weight: bold;
+    font-size:16px;
+
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,"ＭＳ Ｐゴシック",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+ color:#333;
+ border:#efefef 1px solid;
+
+}
+#tb:focus
+{
+border: #6995e7  solid 4px;
+}
+.continue:hover{
+    background-color:#d80323;
+}
+.log:hover
+{
+
+
+background-color: #dbdada;
+
+}
+b:hover
+{
+    color:black;
+}
